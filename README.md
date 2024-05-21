@@ -66,8 +66,6 @@ A data set including 90 test cases with three levels of complexity (from simple,
 
 ![moderate](.\images\moderate1.jpg)
 
-
-
 ![moderate](.\images\moderate2.jpg)
 
 ![moderate](.\images\moderate3.jpg)
