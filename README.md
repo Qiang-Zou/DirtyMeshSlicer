@@ -1,4 +1,4 @@
-# Robust Slicer for Dirty Meshes (DirtyMeshSlicer)
+# Robust Slicer and Test Cases for Dirty Meshe Slicing (DirtyMeshSlicer)
 
 - By: Yaonaiming Zhao and Qiang Zou (built on top of Charlie C.L. Wang's MeshWorks)
 -  email: qzou.code@gmail.com
