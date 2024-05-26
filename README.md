@@ -81,12 +81,7 @@ A data set including 90 test cases with three levels of complexity (from simple,
 ## 7.Acknowledgements
 
 - We thank Prof. Jin Huang and Mr. Haoran Sun for useful discussions on algorithms used to repair dirty mesh models.
-- We used several useful libraries in our implement listed as follows. We would like to thank their authors.
-    [TetWild]([Yixin-Hu/TetWild: Robust Tetrahedral Meshing in the Wild. (github.com)](https://github.com/Yixin-Hu/TetWild))
-
-    [fast-winding-number-soups](https://github.com/GavinBarill/fast-winding-number-soups)
-
-    [PoissonRecon](https://github.com/mkazhdan/PoissonRecon)
+- We used several useful libraries in our implement listed as follows. We would like to thank their authors. [TetWild](https://github.com/Yixin-Hu/TetWild) [fast-winding-number-soups](https://github.com/GavinBarill/fast-winding-number-soups) [PoissonReconstruction](https://github.com/mkazhdan/PoissonRecon)
 
 8.References
 -------------
