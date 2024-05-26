@@ -56,38 +56,37 @@ A data set including 90 test cases with three levels of complexity (from simple,
 
 ### **simple**
 
-![simple](.\images\simple1.jpg)
+![simple](./images/simple1.jpg)
 
-![simple](.\images\simple2.jpg)
+![simple](./images/simple2.jpg)
 
-![simple](.\images\simple3.jpg)
+![simple](./images/simple3.jpg)
 
 ### **moderate**
 
-![moderate](.\images\moderate1.jpg)
+![moderate](./images/moderate1.jpg)
 
-![moderate](.\images\moderate2.jpg)
+![moderate](./images/moderate2.jpg)
 
-![moderate](.\images\moderate3.jpg)
+![moderate](./images/moderate3.jpg)
 
 ### **complex**
 
-![complex](.\images\complex1.jpg)
+![complex](./images/complex1.jpg)
 
-![complex](.\images\complex2.jpg)
+![complex](./images/complex2.jpg)
 
-![complex](.\images\complex3.jpg)
+![complex](./images/complex3.jpg)
 
 ## 7.Acknowledgements
 
 - We thank Prof. Jin Huang and Mr. Haoran Sun for useful discussions on algorithms used to repair dirty mesh models.
 - We used several useful libraries in our implement listed as follows. We would like to thank their authors.
+    [TetWild]([Yixin-Hu/TetWild: Robust Tetrahedral Meshing in the Wild. (github.com)](https://github.com/Yixin-Hu/TetWild))
 
-​		 [TetWild]([Yixin-Hu/TetWild: Robust Tetrahedral Meshing in the Wild. (github.com)](https://github.com/Yixin-Hu/TetWild))
+    [fast-winding-number-soups](https://github.com/GavinBarill/fast-winding-number-soups)
 
-​		 [fast-winding-number-soups](https://github.com/GavinBarill/fast-winding-number-soups)
-
-​		 [PoissonRecon](https://github.com/mkazhdan/PoissonRecon)
+    [PoissonRecon](https://github.com/mkazhdan/PoissonRecon)
 
 8.References
 -------------
